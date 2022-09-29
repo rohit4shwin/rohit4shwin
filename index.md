@@ -37,6 +37,6 @@ The following is an unordered list:
 
 The following is a task list:
 
-[] This is an incomplete task
+[ ] This is an incomplete task
 [x] This is a complete task
-[] This is another incomplete task
+[ ] This is another incomplete task

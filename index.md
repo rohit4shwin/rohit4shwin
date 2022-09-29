@@ -36,6 +36,7 @@ The following is an unordered list:
     - Another stacked list item
 
 The following is a task list:
+
 [] This is an incomplete task
 [x] This is a complete task
 [] This is another incomplete task
